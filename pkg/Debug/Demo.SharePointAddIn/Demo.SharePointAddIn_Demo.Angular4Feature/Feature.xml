@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="2d335a46-67b1-483c-88a7-8a476d787b09" Scope="Web" Title="Demo.Angular4 Feature" Version="1.0.0.1">
+  <ElementManifests>
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\app.js" />
+    <ElementFile Location="Scripts\polyfills.js" />
+    <ElementFile Location="Scripts\vendor.css" />
+    <ElementFile Location="Scripts\vendor.js" />
+  </ElementManifests>
+  <UpgradeActions>
+    <VersionRange>
+      <ApplyElementManifests>
+        <ElementManifest Location="Content\Elements.xml" />
+        <ElementManifest Location="Images\Elements.xml" />
+        <ElementManifest Location="Pages\Elements.xml" />
+        <ElementManifest Location="Scripts\Elements.xml" />
+      </ApplyElementManifests>
+    </VersionRange>
+  </UpgradeActions>
+</Feature>

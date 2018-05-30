@@ -1,0 +1,4 @@
+C:\git_test\sharepoint.angular4\Demo.SharePointAddIn\bin\Debug\Demo.SharePointAddIn.pdb
+C:\git_test\sharepoint.angular4\Demo.SharePointAddIn\obj\Debug\Demo.SharePointAddIn.csproj.CoreCompileInputs.cache
+C:\git_test\sharepoint.angular4\Demo.SharePointAddIn\obj\Debug\Demo.SharePointAddIn.dll
+C:\git_test\sharepoint.angular4\Demo.SharePointAddIn\obj\Debug\Demo.SharePointAddIn.pdb
